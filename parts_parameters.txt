@@ -1,0 +1,101 @@
+[
+    {
+        "uuid": "24a37ddc-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "Core 2 VX squaredrive",
+        "timeToManufacture": 0.02,
+        "throughput": 100,
+        "reliability": 92,
+        "requiredForWidget": 1,
+        "cost": 45
+    },
+    {
+        "uuid": "14a36ad6-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "CRJ200 Gravitometer",
+        "timeToManufacture": 0.03,
+        "throughput": 10,
+        "reliability": 98,
+        "requiredForWidget": 2,
+        "cost": 20
+    },
+    {
+        "uuid": "34a38eee-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "HTC core",
+        "timeToManufacture": 0.03,
+        "throughput": 1,
+        "reliability": 92,
+        "requiredForWidget": 1,
+        "cost": 39
+    },
+    {
+        "uuid": "44a39e2a-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "Bakralite jumper plug",
+        "timeToManufacture": 0.02,
+        "throughput": 30,
+        "reliability": 92,
+        "requiredForWidget": 5,
+        "cost": 87
+    },
+    {
+        "uuid": "54a3ab22-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "Linear flyback sympathizer",
+        "timeToManufacture": 0.01,
+        "throughput": 100,
+        "reliability": 92,
+        "requiredForWidget": 10,
+        "cost": 15
+    },
+    {
+        "uuid": "64a3bf7c-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "Interociter",
+        "timeToManufacture": 0.02,
+        "throughput": 2,
+        "reliability": 92,
+        "requiredForWidget": 5,
+        "cost": 11
+    },
+    {
+        "uuid": "74a3ce2c-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "Quadrasonic Syncopation Damper",
+        "timeToManufacture": 0.03,
+        "throughput": 1,
+        "reliability": 92,
+        "requiredForWidget": 3,
+        "cost": 80
+    },
+    {
+        "uuid": "84a3dcdc-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "Nitrotheum turbo flask",
+        "timeToManufacture": 0.01,
+        "throughput": 1000,
+        "reliability": 92,
+        "requiredForWidget": 12,
+        "cost": 3
+    },
+    {
+        "uuid": "94a3ebb4-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "JV-VC720X",
+        "timeToManufacture": 0.03,
+        "throughput": 2,
+        "reliability": 92,
+        "requiredForWidget": 1,
+        "cost": 50
+    },
+    {
+        "uuid": "a1a3fb2c-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "Fastener",
+        "timeToManufacture": 0.02,
+        "throughput": 10000,
+        "reliability": 92,
+        "requiredForWidget": 50,
+        "cost": 1
+    },
+    {
+        "uuid": "b1a4096e-d71d-11e9-83b2-2ad4acdd5304",
+        "name": "ECU",
+        "timeToManufacture": 0.04,
+        "throughput": 20,
+        "reliability": 92,
+        "requiredForWidget": 1,
+        "cost": 56
+    }
+]

@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="utd.net.xml"/>
+        <route-files value="utd.route.xml"/>
+       
+    </input>
+    <time>
+        <begin value="1"/>
+        <end value="10000"/>
+    </time>
+   
+</configuration>
